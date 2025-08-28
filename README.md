@@ -1,7 +1,7 @@
 ### 💫 About Me:
-Backend Go developer focused on building high-load microservices.
-🌱 Actively learning: Kubernetes, Kafka, advanced Go patterns  
-💬 Ask me about: PostgreSQL optimization, Redis caching, and why I love Go
+Backend Go developer focused on building high-load microservices.    
+🌱 Actively learning: Kubernetes, Kafka, advanced Go patterns      
+💬 Ask me about: PostgreSQL optimization, Redis caching, and why I love Go    
 📫 How to reach me: [Telegram](https://t.me/Sunriseex) | uprising12@yandex.ru
 
 ### 💻 Tech Stack:
@@ -24,7 +24,7 @@ Backend Go developer focused on building high-load microservices.
 [![](https://visitcount.itsvg.in/api?id=Sunriseex&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 💼 For Recruiters:
-✅ Open to Junior Go Developer positions
+✅ Open to Junior Go Developer positions    
 ✅ Location: Moscow or remote
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sunriseex)
